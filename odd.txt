@@ -1,0 +1,8 @@
+n 
+for i in range n:
+
+	if(i%2==1):
+	a=0
+	a=a+i
+
+print (a)
